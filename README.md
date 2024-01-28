@@ -20,10 +20,6 @@ I'm a self-taught Front-End Developer from Indonesia 🇮🇩
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png"></code>
 
-
-| <a href="https://github.com/AdrianRafli/AdrianRafli"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AdrianRafli&show_icons=true&include_all_commits=true&hide_border=true&bg_color=222831&title_color=FFD369&icon_color=0092CA&text_color=EEEEEE" alt="Adrian's github stats" /></a> | <a href="https://github.com/AdrianRafli/AdrianRafli"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianRafli&layout=compact&theme=buefy&hide_border=true&bg_color=222831&title_color=FFD369&text_color=EEEEEE" /></a> |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
 <br />
 
 <a href="https://twitter.com/ianxven">
